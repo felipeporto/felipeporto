@@ -2,5 +2,5 @@
 
 *Software Enginner at [Uber](https://github.com/uber)*
 
-[![Linkedin: feporto](https://img.shields.io/badge/Follow-feporto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/feporto/)
-[![Twitter: felipe_porto](https://img.shields.io/twitter/follow/felipe_porto?style=social)](https://twitter.com/felipe_porto)
+[![Linkedin feporto](https://img.shields.io/badge/-Felipe%20Porto-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/feporto/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@felipe_porto-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=felipe_porto "Follow on Twitter")
